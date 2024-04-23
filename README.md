@@ -8,4 +8,5 @@ I'm currently working on my thesis on simplicial homotopy type theory, supervise
 
 ### Notes
 * [Introductory notes on equivariant orthogonal spectra](https://github.com/thchatzidiamantis/Notes/blob/main/equivariant/equivariant.pdf), for a graduate seminar in Bonn.
+
 More to appear shortly!
