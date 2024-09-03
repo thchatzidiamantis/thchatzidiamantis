@@ -1,6 +1,4 @@
-I am a master's student in mathematics at the University of Bonn interested in all things mathematical logic, especially if category theory is involved. I just submitted my thesis on simplicial homotopy type theory, supervised by [Nima Rasekh](https://guests.mpim-bonn.mpg.de/rasekh/) and [Floris van Doorn](http://florisvandoorn.com/). [Here](https://github.com/thchatzidiamantis/MscThesis/blob/main/SubmissionText.pdf) is the "finished" product.
-
-Starting September 2024, I will be a PhD student at the University of Western Ontario.
+I'm a first year PhD student at the University of Western Ontario interested in all things mathematical logic, especially if category theory is involved. My supervisor is Dan Christensen. I just submitted my master's thesis on simplicial homotopy type theory, supervised by [Nima Rasekh](https://guests.mpim-bonn.mpg.de/rasekh/) and [Floris van Doorn](http://florisvandoorn.com/). [Here](https://github.com/thchatzidiamantis/MscThesis/blob/main/SubmissionText.pdf) is the "finished" product.
 
 ### Formalization 
 * I've worked with [Lean](http://lean-lang.org) for a [course](https://github.com/fpvandoorn/LeanCourse23/) taught by Floris van Doorn in Bonn and [formalized Fodor's lemma](https://github.com/thchatzidiamantis/LeanCourse23/tree/master/LeanCourse/Project), a set-theoretic property of a special class of "big" sets.
