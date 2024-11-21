@@ -2,7 +2,7 @@ I'm a first year PhD student at the University of Western Ontario interested in 
 
 ### Formalisation of mathematics
 * As part of my master's thesis project I started working with [Rzk](https://rzk-lang.github.io/rzk), a proof assistant designed for synthetic ∞-catrgories. Everything I'm doing with it is [here](https://github.com/thchatzidiamantis/sHoTT). I recently started an experimental Rzk project about [2-Segal types](https://github.com/thchatzidiamantis/sHoTT/blob/2Segal/src/2Segal/2segal-types.rzk.md). It's just like Segal types, only the combinatorics are worse in every way and it's not as useful. Convinced yet?
-* I've worked with [Lean](http://lean-lang.org) for a [course](https://github.com/fpvandoorn/LeanCourse23/) taught by Floris van Doorn in Bonn and [formalized Fodor's lemma](https://github.com/thchatzidiamantis/LeanCourse23/tree/master/LeanCourse/Project), a set-theoretic property of a special class of "big" sets.
+* I've worked with [Lean](http://lean-lang.org) for a [course](https://github.com/fpvandoorn/LeanCourse23/) taught by Floris van Doorn in Bonn and [formalised Fodor's lemma](https://github.com/thchatzidiamantis/LeanCourse23/tree/master/LeanCourse/Project), a set-theoretic property of a special class of "big" sets. I am certainly not the only person who has done this.
 
 ### Notes
 * [Introductory notes on equivariant orthogonal spectra](https://github.com/thchatzidiamantis/Notes/blob/main/equivariant/equivariant.pdf), for a graduate seminar in Bonn.
