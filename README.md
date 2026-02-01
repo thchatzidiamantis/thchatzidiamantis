@@ -1,4 +1,4 @@
-I'm a first year PhD student at the University of Western Ontario interested in all things mathematical logic, especially if category theory and (homotopy) type theory are involved. My supervisor is [Dan Christensen](https://jdc.math.uwo.ca/). Before that, I wrote my master's thesis on simplicial homotopy type theory at the University of Bonn, supervised by [Nima Rasekh](https://guests.mpim-bonn.mpg.de/rasekh/) and [Floris van Doorn](http://florisvandoorn.com/). [This](https://github.com/thchatzidiamantis/MscThesis/blob/main/SubmissionText.pdf) is the "finished" product.
+I'm a second year PhD student at the University of Western Ontario interested in all things mathematical logic, especially if category theory and (homotopy) type theory are involved. My supervisor is [Dan Christensen](https://jdc.math.uwo.ca/). Before that, I wrote my master's thesis on simplicial homotopy type theory at the University of Bonn, supervised by [Nima Rasekh](https://guests.mpim-bonn.mpg.de/rasekh/) and [Floris van Doorn](http://florisvandoorn.com/). [This](https://github.com/thchatzidiamantis/MscThesis/blob/main/SubmissionText.pdf) is the "finished" product.
 
 For more details, here's my [website](https://thchatzidiamantis.github.io/).
 
@@ -9,4 +9,4 @@ For more details, here's my [website](https://thchatzidiamantis.github.io/).
 
 ### Notes
 * [Introductory notes on equivariant orthogonal spectra](https://github.com/thchatzidiamantis/Notes/blob/main/equivariant/equivariant.pdf), for a graduate seminar in Bonn.
-* Together with Kunhong Du and Tim Lichtnau, we are giving a series of introductory talks on topics in homotopy type theory, as part of our thesis work. [Here](https://github.com/thchatzidiamantis/BonnHoTTSeminar) are the notes.
+* Together with Kunhong Du and Tim Lichtnau, we gave a series of introductory talks on topics in homotopy type theory, as part of our thesis work. [Here](https://github.com/thchatzidiamantis/BonnHoTTSeminar) are the notes.
